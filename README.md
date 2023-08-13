@@ -25,7 +25,7 @@ This repository contains code for a movie recommendation system implemented usin
 
 ### Usage
 
-1. Run the `movie_recommendation.py` script to load the dataset, preprocess data, and create the recommendation system.
+1. Run the `movierecommendations.ipynb` script to load the dataset, preprocess data, and create the recommendation system.
 
 2. Use the `get_recommendations` function to get movie recommendations:
    ```python
